@@ -9,7 +9,7 @@ nav ul{
     background-color: #4a4a4f;
     text-align: center;
     margin: 0;
-    padding: 2px;
+    padding: 0;
 }
 
 nav li {
@@ -22,14 +22,13 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: #ffffff;
     display: block;
 }
 
 nav a:hover {
-    background-color: #fff;
+    background-color: #ffffff;
     color: #4a4a4f;
-    border: 2px solid #ffffff;
 }
 
 .card {
