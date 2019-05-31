@@ -1,0 +1,58 @@
+body {
+    margin: 0 10% 0 10%;
+}
+
+.title {
+    height: 100px;
+    background-color: #00cc44;
+    font: 1.5em bold ;
+    color: #000;
+    background-image: url("https://previews.123rf.com/images/sydeen/sydeen1507/sydeen150700009/43119893-palm-oil-plantation-growing-up.jpg");
+    
+}
+
+.logo {
+    float: left;
+    width: 100px;
+    
+}
+
+.navbar {
+    background-color: #99ffbb;
+    overflow: auto;
+    
+}
+
+
+ul {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    float: left;
+    list-style: none;
+    color: #000;
+    
+}
+
+li .link{
+    visibility: hiden;
+    text-align: center;
+    
+    
+}
+
+.drop {
+    max-width: 15px;
+}
+
+
+.link {
+    text-decoration: none;
+    color: #000;
+}
+
+
+.special:hover .link{
+    
+    visibility: visible;
+}
